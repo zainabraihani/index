@@ -1,0 +1,12 @@
+#contenu{
+
+text-align:center;
+height:250px;
+display: table;
+width: 100%;
+}
+#contenu span {
+/* Aligne le texte verticalement au milieu */
+vertical-align:middle;
+display: table-cell;
+}
